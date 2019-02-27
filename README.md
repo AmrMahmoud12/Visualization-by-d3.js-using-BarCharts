@@ -4,8 +4,11 @@
 
 #How to use this files?
 1- download a csv file into a folder in your system
+
 2- in the same folder put the files of codes.
+
 3- notice that the names of columns must be the same names as in the index.js files.
+
 4- open thew index file by using google chrome or firefox.
 
 
